@@ -1,10 +1,10 @@
-package com.santosh.bankxpinitial;
+package com.santosh.bookstore;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BankxpInitialApplicationTests {
+class ApplicationTests {
 
     @Test
     void contextLoads() {
